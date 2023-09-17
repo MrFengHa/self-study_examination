@@ -1,0 +1,27 @@
+{
+  "name": "self-study_examination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFengHa/self-study_examination.git"
+  },
+  "author": "冯根源",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFengHa/self-study_examination/issues"
+  },
+  "homepage": "https://github.com/MrFengHa/self-study_examination#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "markdown-it-anchor": "^8.6.7"
+  }
+}
